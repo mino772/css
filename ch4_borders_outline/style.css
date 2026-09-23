@@ -1,0 +1,12 @@
+.The-border {
+    /* border-radius: 10px; */
+
+    border-radius: 10px;
+
+    outline-style: solid;
+    outline-color: blue;
+    outline-width: 5px;
+    outline-offset: 3px;
+
+    border: solid 5px red;
+}
