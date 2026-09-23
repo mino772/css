@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: overline;
+    text-shadow: 8px 8px 1px gray;
+    font-size: 70px;  
+}
+
+p {
+    text-indent: 50px;
+}
