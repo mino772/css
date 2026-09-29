@@ -1,0 +1,7 @@
+div{
+    position: static;
+    width: 200px;
+    height: 200px;
+    border: 10px solid blue;
+    border-radius: 10px;
+}

@@ -1,0 +1,25 @@
+div{
+    width: 200px;
+    height: 200px;
+    border: 10px solid blue;
+    border-radius: 10px;
+}
+
+.top_one{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.middle_one{
+    position: fixed;
+    top:180px;
+    left: 100px;
+
+}
+
+.bottom_one{
+    position: fixed;
+    top: 360px;
+    left: 200px;
+}

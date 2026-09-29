@@ -1,0 +1,11 @@
+div{
+    width: 200px;
+    height: 200px;
+    border: 10px solid blue;
+    border-radius: 10px;
+}
+
+.move_it_a_bit{
+    position: relative;
+    left: 200px;
+}

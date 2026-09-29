@@ -1,0 +1,31 @@
+div{
+    width: 200px;
+    height: 200px;
+    border: 10px solid blue;
+    border-radius: 10px;
+}
+
+.top_one{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: red;
+    z-index: 5;
+}
+
+.middle_one{
+    position: fixed;
+    top:90px;
+    left: 50px;
+    background-color: green;
+    z-index: 4;
+}
+
+.bottom_one{
+    position: fixed;
+    top: 180px;
+    left: 150px;
+    z-index: 1;
+    background-color: blue;
+    border: 10px solid yellow;
+}
