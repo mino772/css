@@ -1,0 +1,11 @@
+h1{
+    font-family: 'Arial', sans-serif;
+    font-size: 100px;
+    font-style:italic;
+    font-variant: small-caps;
+}
+
+p{
+    font-weight: bold;
+    font:italic small-caps 20px/30px Georgia, serif;
+}
